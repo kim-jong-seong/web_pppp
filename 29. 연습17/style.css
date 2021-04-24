@@ -1,0 +1,61 @@
+/* clock.js */
+
+.js_clock {
+    transition: color 0.5s ease-in-out;
+    color: rgb(0, 0, 0);
+    user-select: none;
+}
+
+.clicked_red {
+    color: rgb(248, 108, 108);
+}
+
+.clicked_orange {
+    color: rgb(247, 175, 128);
+}
+
+.clicked_yellow {
+    color: rgb(253, 242, 144);
+}
+
+.clicked_green {
+    color: rgb(151, 250, 126);
+}
+
+.clicked_blue {
+    color: rgb(120, 177, 252);
+}
+
+.clicked_nam {
+    color: rgb(99, 109, 253);
+}
+
+.clicked_bo {
+    color: rgb(172, 128, 255);
+}
+
+.clicked_pink {
+    color: rgb(242, 116, 253);
+}
+
+/* name.js */
+
+.form,
+.greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
+
+/* greeting */
+
+.js_greeting,
+.js_todoList {
+    user-select: none;
+}
+
+.deletebox_span {
+    color: rgb(131, 131, 131);
+}

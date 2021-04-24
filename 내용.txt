@@ -1,0 +1,13 @@
+- this란
+
+https://blueshw.github.io/2018/03/12/this/
+
+
+- setInterval(fn, 1000);
+= 1000만큼 기다린 뒤 함수 실행
+
+
+
+- js파일 'use strict';
+
+= 조금 더 자세하게 오류를 볼 수 있음

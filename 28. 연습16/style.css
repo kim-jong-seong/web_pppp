@@ -1,0 +1,17 @@
+.js_clock {
+    transition: color 0.5s ease-in-out;
+    color:brown;
+}
+
+.clicked {
+    color: rgb(130, 130, 255);
+}
+
+.form,
+.greeting {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
